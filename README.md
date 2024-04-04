@@ -4,7 +4,7 @@ This sample is an example of how to create a JWT using .NET and C# when calling 
 
 It builds a token that is valid for 30 minutes. Please obtain a set of DoorDash Credentials (Developer ID, Key ID, and Signing Secret) in the [DoorDash Developer Portal](https://developer.doordash.com/portal/integration/drive/credentials) to use in the application. 
 
-This application targets [.NET 7](https://dotnet.microsoft.com/en-us/download/dotnet/7.0). The code source and build files provided in this repository are samples and not intended for production, and are not supported.
+This application targets [.NET 8](https://dotnet.microsoft.com/en-us/download/dotnet/8.0). The code source and build files provided in this repository are samples and not intended for production, and are not supported.
 
 ## Running Sample
 
